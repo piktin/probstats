@@ -21,7 +21,7 @@ library(caret)
 
 
 #set file path to the excel file biomarkers
-file_path <- "C:/Users/Wind/Documents/Edinburgh/Probability and Statistics/Assesment/biomarkers.xlsx"
+file_path <- "/Probability and Statistics/Assesment/biomarkers.xlsx"
 
 ##Read the file into dataframe
 bio <- read.xlsx(file_path)
@@ -39,7 +39,7 @@ summary(bio)
 table(is.na(bio)) #there are 9 NANs in the set
 
 # set filepath for covariates
-file_path1 <-"C:/Users/Wind/Documents/Edinburgh/Probability and Statistics/Assesment/covariates.xlsx"
+file_path1 <-"/Probability and Statistics/Assesment/covariates.xlsx"
 
 
 ###############################################
