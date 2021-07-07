@@ -1,6 +1,6 @@
 # probstats
 
-Final assignment for the module Probability and Statistic from the University of Edinburgh.
+Final assignment for the module Probability and Statistics from the University of Edinburgh.
 
 This assignment is assessed on statistical testing and regression modelling using R. Dataset is from a research project from two Scandinavian university hospitals concerning with pain and biomarkers. It is unknown whether increases or decreases in these biomarker values cause more pain. I needed to manipulate the datasets in various ways using R and subsequently analyze the data using hypothesis testing and drawing conclusion using multiple hypothesis testing.
 
